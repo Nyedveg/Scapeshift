@@ -20,7 +20,6 @@ public class ClimbProvider : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log("ClimbProvider Start() called");
         XRDirectClimbInteractor.ClimbHandActivated += HandActivated;
         XRDirectClimbInteractor.ClimbHandDeactivated += HandDeactivated;
     }
@@ -33,8 +32,6 @@ public class ClimbProvider : MonoBehaviour
 
     private void HandActivated(string _controllerName)
     {
-        Debug.Log($"HAND ACTIVATED: {_controllerName}");
-        
         if(_controllerName == "LeftHand Controller")
         {
             _leftActive = true;
@@ -53,8 +50,6 @@ public class ClimbProvider : MonoBehaviour
     
     private void HandDeactivated(string _controllerName)
     {
-        Debug.Log($"HAND DEACTIVATED: {_controllerName}");
-
         if (_rightActive && _controllerName == "RightHand Controller")
         {
             _rightActive = false;
@@ -81,9 +76,6 @@ public class ClimbProvider : MonoBehaviour
         
         // Calculate hand movement since last frame
         Vector3 handMovement = activeHand.position - _previousHandPosition;
-        
-        Debug.Log($"Hand Movement: {handMovement}");
-        Debug.Log($"Movement Magnitude: {handMovement.magnitude}");
         
         // Move character controller in opposite direction of hand movement
         // This creates the climbing effect
