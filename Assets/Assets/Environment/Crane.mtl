@@ -1,0 +1,250 @@
+newmtl Wedge1Mtl
+Material Color
+Ka 0.708298 0.238828 0.0494335
+Kd 0.708298 0.238828 0.0494335
+Ks 0.127771 0.0430827 0.00891741 
+
+d 1
+
+Ns 202
+
+map_Ka Wedge1_diff.png
+map_Kd Wedge1_diff.png
+map_d Wedge1_diff.png
+
+map_Bump Wedge1_nmap.png
+
+map_Ns Wedge1_spec.png
+
+newmtl Rope1Mtl
+Material Color
+Ka 0.554227 0.348865 0.2468
+Kd 0.554227 0.348865 0.2468
+Ks 0.0152141 0.00957668 0.00677491 
+
+d 1
+
+Ns 0
+
+map_Ka Rope1_diff.png
+map_Kd Rope1_diff.png
+map_d Rope1_diff.png
+
+map_Bump Rope1_nmap.png
+
+map_Ns Rope1_spec.png
+
+newmtl Bigconnector1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Wedge1_diff.png
+map_Kd Wedge1_diff.png
+map_d Wedge1_diff.png
+
+map_Bump Wedge1_nmap.png
+
+map_Ns Wedge1_spec.png
+
+newmtl Rotatingrod1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0225023 0.0205504 0.0220053 
+
+d 1
+
+Ns 202
+
+map_Ka Wedge1_diff.png
+map_Kd Wedge1_diff.png
+map_d Wedge1_diff.png
+
+map_Bump Wedge1_nmap.png
+
+map_Ns Wedge1_spec.png
+
+newmtl Metalholder1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Fencepart1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0673972 0.0664909 0.0692299 
+
+d 1
+
+Ns 202
+
+map_Ka Wedge1_diff.png
+map_Kd Wedge1_diff.png
+map_d Wedge1_diff.png
+
+map_Bump Wedge1_nmap.png
+
+map_Ns Wedge1_spec.png
+
+newmtl Wheel1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 0
+
+map_Ka Wheel1_diff.png
+map_Kd Wheel1_diff.png
+map_d Wheel1_diff.png
+
+map_Ns Wheel1_spec.png
+
+newmtl Wheelcover9Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00283396 0.00749103 0.0124968 
+
+d 1
+
+Ns 0
+
+newmtl Meshessecondcontainerblock1Mtl
+Material Color
+Ka 0.0869013 0.0802193 0.0846415
+Kd 0.0869013 0.0802193 0.0846415
+Ks 0.0344197 0.0317731 0.0335247 
+
+d 1
+
+Ns 0
+
+newmtl Containerframe1Mtl
+Material Color
+Ka 0.774227 0.0445526 0.0370285
+Kd 0.774227 0.0445526 0.0370285
+Ks 0.306655 0.0176463 0.0146662 
+
+d 1
+
+Ns 0
+
+newmtl Woodtile1Mtl
+Material Color
+Ka 0.311181 0.197516 0.139022
+Kd 0.311181 0.197516 0.139022
+Ks 0.0244063 0.0154915 0.0109037 
+
+d 1
+
+Ns 22
+
+map_Ka Woodtile1_diff.png
+map_Kd Woodtile1_diff.png
+map_d Woodtile1_diff.png
+
+map_Bump Woodtile1_nmap.png
+
+map_Ns Woodtile1_spec.png
+
+newmtl Part48Mtl
+Material Color
+Ka 0.103634 0.108711 0.14198
+Kd 0.103634 0.108711 0.14198
+Ks 0.0186948 0.0196106 0.0256121 
+
+d 1
+
+Ns 202
+
+map_Ka Wedge1_diff.png
+map_Kd Wedge1_diff.png
+map_d Wedge1_diff.png
+
+map_Bump Wedge1_nmap.png
+
+map_Ns Wedge1_spec.png
+
+newmtl Part70Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part70_diff.png
+map_Kd Part70_diff.png
+map_d Part70_diff.png
+
+map_Bump Part70_nmap.png
+
+map_Ns Part70_spec.png
+
+newmtl Part74Mtl
+Material Color
+Ka 0.673049 0.173439 0.042987
+Kd 0.673049 0.173439 0.042987
+Ks 0.121413 0.031287 0.00775452 
+
+d 1
+
+Ns 202
+
+map_Ka Wedge1_diff.png
+map_Kd Wedge1_diff.png
+map_d Wedge1_diff.png
+
+map_Bump Wedge1_nmap.png
+
+map_Ns Wedge1_spec.png
+
+newmtl Ropeshaftroundsmoothbase1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000196413 0.00051918 0.000866117 
+
+d 1
+
+Ns 0
+
+map_Ka Rope1_diff.png
+map_Kd Rope1_diff.png
+map_d Rope1_diff.png
+
+map_Bump Rope1_nmap.png
+
+map_Ns Rope1_spec.png
+
+newmtl Ropeshaftroundsmoothbase2Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000196413 0.00051918 0.000866117 
+
+d 1
+
+Ns 0
+
+map_Ka Ropeshaftroundsmoothbase2_diff.png
+map_Kd Ropeshaftroundsmoothbase2_diff.png
+map_d Ropeshaftroundsmoothbase2_diff.png
+
